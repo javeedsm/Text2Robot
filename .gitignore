@@ -59,3 +59,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Robot generation output directories
+demo_robot_output/
+robot_output/
